@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mau:home|Door43 (mau)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mau|d43-mau repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mau/archive/master.zip|d43-mau.zip]]
+
+**Recent Changes**
+{{changes>ns = mau}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mau|Ethnologue data]]
+
